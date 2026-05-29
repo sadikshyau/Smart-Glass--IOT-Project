@@ -11,7 +11,7 @@ An IoT-based Smart Glass system developed as a group project to demonstrate smar
 
 ## Technologies Used
 - IoT
-- Arduino / ESP32
+- ESP32/ESP 32 cam
 - Embedded Systems
 - HTML/CSS
 
